@@ -1,0 +1,23 @@
+# Library Management System
+
+A full-featured library management system built with Django, Django REST Framework, and MySQL.
+
+## Features
+- **Books Management**: Add, edit, and view books.
+- **Members Management**: Manage library members and their details.
+- **Borrowing Records**: Track book borrowings and returns.
+- **REST API**: Expose API endpoints for all operations.
+- **Professional Frontend**: Bootstrap-based responsive UI.
+
+## Technologies
+- **Backend**: Python, Django, Django REST Framework
+- **Database**: MySQL
+- **Frontend**: HTML, CSS, Bootstrap
+- **Environment Management**: Pipenv
+- **Version Control**: Git, GitHub
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ellhamrjb/LibraryManagementSystem.git
+   cd library-management-system
